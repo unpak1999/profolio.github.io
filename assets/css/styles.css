@@ -1,4 +1,4 @@
-html, body, ul, li, div, img, h2, h3, h4, h5, a {
+html, body, ul, li, div, img, h1, h2, h4, h5, a {
     font-family: Arial, Helvetica, sans-serif;
     color: #ffffff;
     text-decoration: none;
@@ -68,7 +68,7 @@ ul > li > a > img {
     margin-bottom: 0.5em;
 }
 
-div > h2 {
+div > h1 {
     line-height: 1px;
     font-size: 3em;
 	text-shadow:
@@ -80,7 +80,7 @@ div > h2 {
 		5px 5px 5px #5271ff;
 }
 
-div > h2 > span {
+div > h1 > span {
 	animation: pulsate 0.11s ease-in-out infinite alternate;
 }
 
