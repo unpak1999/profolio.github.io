@@ -68,7 +68,7 @@ ul > li > a > img {
     margin-bottom: 0.5em;
 }
 
-div > h1 {
+div > h2 {
     line-height: 1px;
     font-size: 3em;
 	text-shadow:
@@ -80,7 +80,7 @@ div > h1 {
 		5px 5px 5px #5271ff;
 }
 
-div > h1 > span {
+div > h2 > span {
 	animation: pulsate 0.11s ease-in-out infinite alternate;
 }
 
