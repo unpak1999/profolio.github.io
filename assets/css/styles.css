@@ -13,7 +13,7 @@ html, body, ul, li, div, img {
 
 body {
     background: url("../img/bg-11.png");
-    background-position: center;
+    background-position: auto;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
